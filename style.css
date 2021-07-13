@@ -1,0 +1,31 @@
+#gameArea {
+    font-size: 30px;
+    line-height: 3rem;
+    margin-bottom: 5rem;
+}
+#playButton {
+    margin-bottom: 2rem;
+}
+body {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.controls {
+    width: 200px;
+    margin: auto;
+
+}
+
+#left, #right, #down{
+    margin: auto;
+    display: inline-block;
+    width: 32%;
+    height: 4rem;
+}
+#up {
+    width: 30%;
+    margin: auto;
+    display: block;
+    height: 4rem;
+}
